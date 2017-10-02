@@ -54,7 +54,6 @@ D, B, and L are all made with a single finger's column. If the order sometimes e
 | PWAUS or PWAUZ | because     |           |
 | PW-FR          | before      |           |
 | HR             | will        |           |
-| PWHR           | build       |           |
 | HREF           | leave       |           |
 | PWHREF         | believe     |           |
 | HR-R           | already     |           |
