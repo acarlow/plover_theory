@@ -75,13 +75,12 @@ Write the English sentence represented by these outlines, including punctuation.
 
 1. `HR-RT KW-BG TKO T TP-PL`
 2. `HR U -B AT -T START OR HR U HREF PW-FR THA H-F`
-3. `HE HR PWHR -T PWED TP-PL`
-4. `HR-S KW-BG K U TKO THA H-F`
-5. `TK U TKO WHA HE SEZ U TK H-F`
-6. `HE HR HR-S TKO -T HRAP W HER TP-PL`
-7. `TK U PWHREF WHA SHE TK TO HER TKAD H-F PWAUS T WAZ AUFL SKP PWAD TP-PL`
-8. `PWHREF HER HR-R TP-PL`
-9. `AUL -F TH- STUF S SO HARD TO HRAF PW TP-PL`
+3. `HR-S KW-BG K U TKO THA H-F`
+4. `TK U TKO WHA HE SEZ U TK H-F`
+5. `HE HR HR-S TKO -T HRAP W HER TP-PL`
+6. `TK U PWHREF WHA SHE TK TO HER TKAD H-F PWAUS T WAZ AUFL SKP PWAD TP-PL`
+7. `PWHREF HER HR-R TP-PL`
+8. `AUL -F TH- STUF S SO HARD TO HRAF PW TP-PL`
 
 Remember that if you can't figure out an outline, you can look it up in the theory dictionary.
 
@@ -90,5 +89,4 @@ Remember that if you can't figure out an outline, you can look it up in the theo
 Find steno outlines that will write these English sentences, including punctuation.
 
 1. Did you believe what she was about to do?
-2. Will you build the raft and the deck?
-3. All right already, leave us out.
+2. All right already, leave us out.
